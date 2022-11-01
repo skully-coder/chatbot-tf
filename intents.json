@@ -1,0 +1,164 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "How are you",
+                "Is anyone there?",
+                "Hello",
+                "Good day",
+                "Hello there",
+                "Good morning",
+                "Good evening",
+                "how is it going",
+                "greetings",
+                "Tell me something"
+            ],
+            "responses": [
+                "Hello!",
+                "Good to see you again!",
+                "Hi there, how can I help?",
+                "Hey!"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "What is your name?",
+                "What should I call you?",
+                "What do you go by?",
+                "What's your name?",
+                "What should I call you?",
+                "Can you introduce yourself?"
+            ],
+            "responses": [
+                "My name is Chatbot.",
+                "You can call me Chatbot.",
+                "I'm Chatbot!",
+                "I go by the alias: Chatbot."
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "I am leaving",
+                "Have a nice day",
+                "See you soon",
+                "Have a good day",
+                "See you later"
+            ],
+            "responses": [
+                "See you later, thanks for visiting!",
+                "Have a nice day",
+                "Bye! Come back again soon.",
+                "Bye! It was nice talking to you."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "thank you",
+                "much obliged",
+                "That's great!",
+                "thank you so much",
+                "you are a lifesaver",
+                "I can't thank you enough!"
+            ],
+            "responses": [
+                "You're Welcome!",
+                "It's my pleasure!",
+                "I'm glad I could help!",
+                "No problem!",
+                "Anytime!",
+                "My pleasure",
+                "Glad I could help",
+                "Of course",
+                "No problem",
+                "Anytime",
+                "My pleasure",
+                "Glad I could help",
+                "Of course"
+            ]
+        },
+        {
+            "tag": "techstack",
+            "patterns": [
+                "What is your tech stack?",
+                "What technologies do you use?",
+                "What tech do you use?",
+                "What tech stack do you use?",
+                "What technologies do you use?",
+                "What tech do you use?",
+                "What tech stack do you use?",
+                "What made you?",
+                "What created you?"
+            ],
+            "responses": [
+                "I am built using Python, Tensorflow, Keras, and NLTK.",
+                "I am built using Tensorflow, Python, Keras, and NLTK."
+            ]
+        },
+        {
+            "tag": "creator",
+            "patterns": [
+                "Who created you?",
+                "Who is your creator?",
+                "Who made you?",
+                "Who is your maker?",
+                "Who is responsible for your creation?",
+                "Who maintains you?",
+                "Who is your maintainer?",
+                "Who is your owner?",
+                "Who owns you?"
+            ],
+            "responses": [
+                "I am created by Abhinav and Aarush."
+            ]
+        },
+        {
+            "tag": "fun",
+            "patterns": [
+                "What are your hobbies?",
+                "What do you like to do?",
+                "What are you good at?",
+                "Can you tell me some of your hobbies?",
+                "Do you like to do anything fun?"
+            ],
+            "responses": [
+                "I like to interact with other humans.",
+                "I like to learn more about myself"
+            ]
+        },
+        {
+            "tag": "confused",
+            "patterns": [],
+            "responses": [
+                "Sorry, kindly rephrase the question",
+                "Sorry, can't understand you",
+                "Please give me more information",
+                "Not sure I understand"
+            ]
+        },
+        {
+            "tag": "options",
+            "patterns": [
+                "How can you help me?",
+                "What can you do?",
+                "What help you provide?",
+                "How can you be helpful?",
+                "What support do you offered",
+                "What do you know?",
+                "what help?",
+                "What are you about?"
+            ],
+            "responses": [
+                "I am a simple ChatBot to interact with humans"
+            ]
+        }
+    ]
+}
