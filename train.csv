@@ -1,0 +1,99 @@
+Prompt,Class
+Hi,greeting
+How are you,greeting
+Is anyone there?,greeting
+Hello,greeting
+Good day,greeting
+Hello there,greeting
+Good morning,greeting
+Good evening,greeting
+how is it going,greeting
+greetings,greeting
+Tell me something,greeting
+What is your name?,name
+What should I call you?,name
+What do you go by?,name
+What's your name?,name
+What should I call you?,name
+Can you introduce yourself?,name
+name,name
+alias,name
+nickname,name
+what do the common folk call you?,name
+Bye,goodbye
+See you later,goodbye
+Goodbye,goodbye
+I am leaving,goodbye
+Have a nice day,goodbye
+See you soon,goodbye
+Have a good day,goodbye
+See you later,goodbye
+Thanks,thanks
+thank you,thanks
+much obliged,thanks
+That's great!,thanks
+thank you so much,thanks
+you are a lifesaver,thanks
+I can't thank you enough!,thanks
+I am grateful,thanks
+I appreciate it,thanks
+Bless you!,thanks
+I owe you one,thanks
+What is your tech stack?,techstack
+Techstack?,techstack
+What technologies do you use?,techstack
+What tech do you use?,techstack
+What tech stack do you use?,techstack
+What technologies do you use?,techstack
+What tech do you use?,techstack
+What tech stack do you use?,techstack
+What made you?,techstack
+What created you?,techstack
+tech?,techstack
+techstack?,techstack
+What is your tech stack?,techstack
+technologies used to build you?,techstack
+Who created you?,creator
+Who is your creator?,creator
+Who made you?,creator
+Who is your maker?,creator
+Creator?,creator
+Maker?,creator
+Created by?,creator
+Made by?,creator
+maintainer?,creator
+Who is responsible for your creation?,creator
+Who maintains you?,creator
+Who is your maintainer?,creator
+Who is your owner?,creator
+Who owns you?,creator
+What are your hobbies?,hobby
+What do you like to do?,hobby
+What are you good at?,hobby
+Can you tell me some of your hobbies?,hobby
+Do you like to do anything fun?,hobby
+What do you like to do in your free time?,hobby
+What do you like to do for fun?,hobby
+ ,confused
+?,confused
+*,confused
+diosh,confused
+ffs,confused
+wtf,confused
+wth,confused
+wthf,confused
+rrr,confused
+saw,confused
+How can you help me?,options
+What can you do?,options
+What help you provide?,options
+How can you be helpful?,options
+What support do you offered,options
+What do you know?,options
+what help?,options
+What are you about?,options
+What are you?,options
+help,options
+help me,options
+help me please,options
+help me out,options
