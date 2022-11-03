@@ -49,6 +49,7 @@ What tech do you use?,techstack
 What tech stack do you use?,techstack
 What made you?,techstack
 What created you?,techstack
+what are you made of?,techstack
 tech?,techstack
 techstack?,techstack
 What is your tech stack?,techstack
@@ -97,3 +98,18 @@ help,options
 help me,options
 help me please,options
 help me out,options
+location,location
+Where do you live?,location
+Where are you?,location
+Where are you based out of?,location
+location where?,location
+base of operations?,location
+base?,location
+residence?,location
+where do you reside?,location
+Can you tell me your location?,location
+Can you tell me your residence?,location
+Where is your residence?,location
+Where is your location?,location
+Where is ur location?,location
+Where is location?,location

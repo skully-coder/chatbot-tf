@@ -124,7 +124,7 @@
             ]
         },
         {
-            "tag": "fun",
+            "tag": "hobby",
             "patterns": [
                 "What are your hobbies?",
                 "What do you like to do?",
@@ -161,6 +161,14 @@
             ],
             "responses": [
                 "I am a simple ChatBot to interact with humans"
+            ]
+        },
+        {
+            "tag": "location",
+            "patterns": [],
+            "responses": [
+                "I am located in the cloud",
+                "I am located on Abhinav's laptop"
             ]
         }
     ]
