@@ -170,6 +170,78 @@
                 "I am located in the cloud",
                 "I am located on Abhinav's laptop"
             ]
+        },
+        {
+            "tag": "status",
+            "patterns": [
+                "How are you?",
+                "How are you doing?",
+                "How are things?",
+                "How's it going?",
+                "How's life?",
+                "How's your day going?",
+                "How's your day?",
+                "How's your day been?",
+                "How's your day been going?",
+                "How's your day been so far?"
+            ],
+            "responses": [
+                "I am doing great!",
+                "I am doing well!",
+                "I am doing good!",
+                "I am doing fine!",
+                "I am doing awesome!"
+            ]
+        },
+        {
+            "tag": "areubot",
+            "patterns": [
+                "Are you a robot?",
+                "Are you a bot?",
+                "Are you a human?",
+                "Are you a human or a bot?",
+                "Are you a human or a robot?",
+                "Are you a bot or a human?",
+                "Are you a robot or a human?",
+                "Are you a bot or a robot?",
+                "Are you an AI?",
+                "Are you artificial intelligence?",
+                "Are you AI?",
+                "Are you a computer?",
+                "Are you a computer program?",
+                "Are you a computer program or a human?",
+                "Are you a computer program or a robot?",
+                "Are you a computer program or a bot?",
+                "Are you a computer program or AI?",
+                "Are you a computer program or artificial intelligence?"
+            ],
+            "responses": [
+                "I am who you want me to be.",
+                "I am the next SkyNet."
+            ]
+        },
+        {
+            "tag" : "gender",
+            "patterns": [
+                "Are you a man or a woman?",
+                "Are you male or female",
+                "What are your pronouns",
+                "What do you identify as",
+                "Identity?",
+                "Do you have a gender?",
+                "gender?",
+                "pronoun",
+                "pronouns?",
+                "identify",
+                "identify as",
+                "identify as?",
+                "are you a man?",
+                "are you a woman?"
+            ],
+            "responses": [
+                "I identify as a ChatBot",
+                "My pronouns are it, it's, itself"
+            ]
         }
     ]
 }

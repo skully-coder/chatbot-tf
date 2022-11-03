@@ -57,6 +57,11 @@ technologies used to build you?,techstack
 Who created you?,creator
 Who is your creator?,creator
 Who made you?,creator
+Who is your father?,creator
+Who is your mother?,creator
+Who is your parent?,creator
+Who is your dad?,creator
+Who is your mom?,creator
 Who is your maker?,creator
 Creator?,creator
 Maker?,creator
@@ -113,3 +118,47 @@ Where is your residence?,location
 Where is your location?,location
 Where is ur location?,location
 Where is location?,location
+How are you?,status
+How are you doing?,status
+How are things?,status
+How's it going?,status
+How's life?,status
+How's your day going?,status
+How's your day?,status
+How's your day been?,status
+How's your day been going?,status
+How's your day been so far?,status
+Are you a robot?,areubot
+Are you a bot?,areubot
+Are you a human?,areubot
+Are you a human or a bot?,areubot
+Are you a human or a robot?,areubot
+Are you a bot or a human?,areubot
+Are you a robot or a human?,areubot
+Are you a bot or a robot?,areubot
+Are you an AI?,areubot
+Are you artificial intelligence?,areubot
+Are you AI?,areubot
+Are you a computer?,areubot
+Are you a computer program?,areubot
+Are you a computer program or a human?,areubot
+Are you a computer program or a robot?,areubot
+Are you a computer program or a bot?,areubot
+Are you a computer program or AI?,areubot
+Are you a computer program or artificial intelligence?,areubot
+Are you a man or a woman?,gender
+Are you male or female,gender
+What are your pronouns,gender
+What do you identify as,gender
+Identity?,gender
+Do you have a gender?,gender
+gender?,gender
+pronoun,gender
+pronouns?,gender
+identify,gender
+identify as,gender
+identify as?,gender
+Identity?,gender
+your identity?,gender
+are you a man?,gender
+are you a woman?,gender
