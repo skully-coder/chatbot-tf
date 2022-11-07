@@ -33,7 +33,7 @@ def bagw(sentence):
 def predict_class(sentence):
     bow = bagw(sentence)
     res = model.predict(np.array([bow]))[0]
-    print(res)
+    # print(res)
     ERROR_THRESHOLD = 0.25
     results = [[i, r] for i, r in enumerate(res)
                if r > ERROR_THRESHOLD]
@@ -56,11 +56,18 @@ def get_response(intents_list, intents_json):
             break
     return result
 
-
+# clear screen
+def clear():
+    import os
+    os.system('cls' if os.name == 'nt' else 'clear')
+clear()
 print("Chatbot is up!")
 
 while True:
-    message = input("")
+    message = input("You>> ")
     ints = predict_class(message)
-    res = get_response(ints, intents)
-    print(res)
+    if(len(ints) > 0):
+        res = get_response(ints, intents)
+        print("ChatBot>> " + res)
+    else:
+        print("ChatBot>> I don't understand your question")

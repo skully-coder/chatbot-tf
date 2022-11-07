@@ -15,10 +15,13 @@ What should I call you?,name
 What do you go by?,name
 What's your name?,name
 What should I call you?,name
+Who are you?,name
 Can you introduce yourself?,name
 name,name
 alias,name
 nickname,name
+What is your alias?,name
+What is your nickname?,name
 what do the common folk call you?,name
 Bye,goodbye
 See you later,goodbye
@@ -91,6 +94,9 @@ wthf,confused
 rrr,confused
 saw,confused
 How can you help me?,options
+What is your purpose?,options
+What is your primary function?,options
+Can you tell me about yourself?,options
 What can you do?,options
 What help you provide?,options
 How can you be helpful?,options
@@ -146,6 +152,9 @@ Are you a computer program or a robot?,areubot
 Are you a computer program or a bot?,areubot
 Are you a computer program or AI?,areubot
 Are you a computer program or artificial intelligence?,areubot
+Are you a computer program or an AI?,areubot
+Are you a dog or a cat?,areubot
+Are you a dog or a cat or a human?,areubot
 Are you a man or a woman?,gender
 Are you male or female,gender
 What are your pronouns,gender
